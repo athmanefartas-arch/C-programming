@@ -1,0 +1,1 @@
+//i will add prime code calculation in c lang here in this file
